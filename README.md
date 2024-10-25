@@ -11,9 +11,6 @@
 
     ■   Replaces all characters with their respective Unicode codes if the file is not a JSON.
 
-# Past versions
-    Previous implementations are not deleted and their usages are commented out (see lines 33-41 in "main.cpp") and left unused (see "unicode_map.cpp", "unicode_map.hpp" files and "encode" method in "main.cpp").
-
 # How to Run
     1. Navigate to root folder called "obfuscation_tool".
     2. Open "data" folder.
